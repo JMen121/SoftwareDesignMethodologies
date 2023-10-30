@@ -59,8 +59,6 @@ The Strategy Pattern is usually implemented with classes and interfaces in an ob
 
 To develop an online payment system applicable to diverse sectors such as ordering takeaways or purchasing clothing, I believe it is best adopt an Agile Design Methodology, specifically a version that incorporates Iterative and Incremental Development.
 
-Reasoning:
-
 Adaptability:
 Agile methodologies excel in adapting to changing requirements, a crucial quality in a dynamic market where the payment system must cater to various sectors. The ability to promptly respond to evolving needs is a key advantage.
 
