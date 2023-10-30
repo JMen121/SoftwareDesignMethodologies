@@ -55,23 +55,18 @@ The Strategy Pattern would be implemented in a functional system by designating 
 
 The Strategy Pattern is usually implemented with classes and interfaces in an object-oriented system. Every tactic is contained within a distinct class that carries out a shared interface. By switching objects that implement the same interface, the client code can transition between different strategies.
 
-**6 Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.**
+**6 Imagine you is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.**
 
 To develop an online payment system applicable to diverse sectors such as ordering takeaways or purchasing clothing, I believe it is best adopt an Agile Design Methodology, specifically a version that incorporates Iterative and Incremental Development.
 
-Adaptability:
-Agile methodologies excel in adapting to changing requirements, a crucial quality in a dynamic market where the payment system must cater to various sectors. The ability to promptly respond to evolving needs is a key advantage.
+Adaptability: Agile methodologies tend to excel in adapting to changing requirements, a crucial quality in a dynamic market where the payment system must cater to various sectors. 
 
-Continuous Feedback:
-Agile methodologies foster continuous feedback from stakeholders, allowing the system to evolve based on real user requirements and experiences. This ensures a high degree of alignment with market needs.
+Continuous Feedback: Agile methodologies foster continuous feedback from stakeholders, allowing the system to evolve based on real user requirements and experiences ensuring a high degree of alignment with market needs.
 
-Incremental Delivery:
-Breaking the project into smaller increments or iterations enables the swift delivery of a functional product. Additional features can then be added incrementally, simplifying the process of entering diverse sectors without the need for an exhaustive upfront design.
+Incremental Delivery: Breaking the project into smaller increments or iterations enables the swift delivery of a functional product. Additional features can then be added incrementally, simplifying the process of entering diverse sectors without the need for an exhaustive upfront design.
 
-Cross-Functional Teams:
-Agile emphasizes the use of cross-functional teams capable of collaborating on various aspects of the system. This collaborative approach is particularly beneficial for a system intended to serve multiple sectors effectively.
+Cross-Functional Teams: Agile emphasizes the use of cross-functional teams capable of collaborating on various aspects of the system. This collaborative approach is particularly beneficial for a system intended to serve multiple sectors effectively.
 
-User-Centric Design:
-Agile places a strong emphasis on user-centric design and engagement. This approach is instrumental in creating a user-friendly payment system that is adaptable across different sectors.
+User-Centric Design: Agile places a strong emphasis on user-centric design and engagement. This approach is instrumental in creating a user-friendly payment system that is adaptable across different sectors.
 
 By adhering to Agile principles, the development team ensures flexibility, responsiveness, and a customer-oriented approach, making it the optimal choice for a payment system targeting widespread market adoption across diverse sectors.
